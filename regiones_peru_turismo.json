@@ -1,0 +1,377 @@
+[
+  {
+    "id": "01_amazonas",
+    "region": "Amazonas",
+    "capital": "Chachapoyas",
+    "atractivo_principal": "Fortaleza de Kuélap y Catarata Gocta",
+    "wiki_targets": [
+      "Kuélap",
+      "Catarata_Gocta",
+      "Departamento_de_Amazonas"
+    ],
+    "descripcion": "Ubicada en el nororiente peruano, destaca por la imponente fortaleza preinca de Kuélap (la 'Machu Picchu del norte'), la colosal Catarata Gocta de 771 metros de caída, sarcófagos funerarios como Karajía y sus densos bosques de neblina ricos en orquídeas y colibríes.",
+    "archivo_imagen": "01_amazonas.jpg",
+    "url_imagen": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Arquitectura_de_Kuelap.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "ruta_local": "imagenes_regiones_peru/01_amazonas.jpg"
+  },
+  {
+    "id": "02_ancash",
+    "region": "Áncash",
+    "capital": "Huaraz",
+    "atractivo_principal": "Parque Nacional Huascarán y Laguna 69",
+    "wiki_targets": [
+      "Laguna_69",
+      "Parque_nacional_Huascarán",
+      "Huascarán"
+    ],
+    "descripcion": "El paraíso de la alta montaña y el andinismo en los Andes peruanos. Alberga la majestuosa Cordillera Blanca con el Nevado Huascarán (6,768 m s.n.m.), el templo milenario de Chavín de Huántar (Patrimonio de la Humanidad) y deslumbrantes lagunas turquesas como Llanganuco y Laguna 69.",
+    "archivo_imagen": "02_ancash.jpg",
+    "url_imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Laguna_69%2C_Yungay_-_Huaraz_-_Per%C3%BA.jpg/3840px-Laguna_69%2C_Yungay_-_Huaraz_-_Per%C3%BA.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ruta_local": "imagenes_regiones_peru/02_ancash.jpg"
+  },
+  {
+    "id": "03_apurimac",
+    "region": "Apurímac",
+    "capital": "Abancay",
+    "atractivo_principal": "Cañón del Apurímac y Monolito de Saywite",
+    "wiki_targets": [
+      "Sayhuite",
+      "Cañón_del_Apurímac",
+      "Santuario_nacional_de_Ampay"
+    ],
+    "descripcion": "Fascinante tierra de montañas agrestes, valles y profundos cañones. Resalta el gran Cañón del río Apurímac (uno de los mejores destinos mundiales para rafting y canotaje), el monolito astronómico e hidráulico inca de Saywite y el Santuario Nacional de Ampay con su nevado tutelar y bosques de intimpas.",
+    "archivo_imagen": "03_apurimac.jpg",
+    "url_imagen": "https://upload.wikimedia.org/wikipedia/commons/6/60/Sayhuite_Archaeological_site_-_overview.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "ruta_local": "imagenes_regiones_peru/03_apurimac.jpg"
+  },
+  {
+    "id": "04_arequipa",
+    "region": "Arequipa",
+    "capital": "Arequipa",
+    "atractivo_principal": "Cañón del Colca y Monasterio de Santa Catalina",
+    "wiki_targets": [
+      "Cañón_del_Colca",
+      "Monasterio_de_Santa_Catalina_(Arequipa)",
+      "Arequipa"
+    ],
+    "descripcion": "La emblemática 'Ciudad Blanca', construida con sillar blanco volcánico y vigilada por el imponente volcán Misti. Sus mayores atractivos son el Convento y Monasterio de Santa Catalina (una auténtica ciudadela colonial), el espectacular Cañón del Colca donde se aprecia el vuelo del cóndor, y una gastronomía de picanterías inigualable.",
+    "archivo_imagen": "04_arequipa.jpg",
+    "url_imagen": "https://upload.wikimedia.org/wikipedia/commons/1/13/Colca_Canyon_Puno.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "ruta_local": "imagenes_regiones_peru/04_arequipa.jpg"
+  },
+  {
+    "id": "05_ayacucho",
+    "region": "Ayacucho",
+    "capital": "Ayacucho (Huamanga)",
+    "atractivo_principal": "Santuario Histórico de la Pampa de Ayacucho y Templos Coloniales",
+    "wiki_targets": [
+      "Pampa_de_Ayacucho",
+      "Huamanga",
+      "Catedral_de_Ayacucho"
+    ],
+    "descripcion": "Cuna de la independencia americana y capital del arte popular peruano con sus célebres retablos y tallados en piedra de Huamanga. Famosa por sus 33 templos coloniales, sus fervorosas festividades de Semana Santa y el Santuario Histórico de la Pampa de Ayacucho (Quinua), escenario de la batalla definitiva de 1824.",
+    "archivo_imagen": "05_ayacucho.jpg",
+    "url_imagen": "https://upload.wikimedia.org/wikipedia/commons/8/86/PLAZA_MAYOR_DE_AYACUCHO.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "ruta_local": "imagenes_regiones_peru/05_ayacucho.jpg"
+  },
+  {
+    "id": "06_cajamarca",
+    "region": "Cajamarca",
+    "capital": "Cajamarca",
+    "atractivo_principal": "Baños del Inca, Cuarto del Rescate y Cumbemayo",
+    "wiki_targets": [
+      "Ventanillas_de_Otuzco",
+      "Baños_del_Inca",
+      "Cuarto_del_Rescate"
+    ],
+    "descripcion": "Punto de encuentro crucial entre la civilización inca y española. Conserva el legendario Cuarto del Rescate del inca Atahualpa, las aguas termales curativas de los Baños del Inca, el acueducto preinca de Cumbemayo esculpido en roca volcánica y las necrópolis en roca de las Ventanillas de Otuzco.",
+    "archivo_imagen": "06_cajamarca.jpg",
+    "url_imagen": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Cajamarca_Ventanillas_de_Otuzco_lou.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "ruta_local": "imagenes_regiones_peru/06_cajamarca.jpg"
+  },
+  {
+    "id": "07_callao",
+    "region": "Callao",
+    "capital": "Callao",
+    "atractivo_principal": "Fortaleza del Real Felipe e Islas Palomino",
+    "wiki_targets": [
+      "Fortaleza_del_Real_Felipe",
+      "La_Punta",
+      "Islas_Palomino"
+    ],
+    "descripcion": "Provincia Constitucional y principal puerto del país con vasta tradición náutica. Destaca la colosal Fortaleza colonial militar del Real Felipe (siglo XVIII), el pintoresco balneario histórico de La Punta, la zona cultural y gastronómica de Monumental Callao, y excursiones marinas a las Islas Palomino para nadar con lobos marinos en su hábitat.",
+    "archivo_imagen": "07_callao.jpg",
+    "url_imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Interiores_de_la_fortaleza_del_Real_Felipe.jpg/3840px-Interiores_de_la_fortaleza_del_Real_Felipe.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ruta_local": "imagenes_regiones_peru/07_callao.jpg"
+  },
+  {
+    "id": "08_cusco",
+    "region": "Cusco",
+    "capital": "Cusco",
+    "atractivo_principal": "Machu Picchu, Sacsayhuamán y Valle Sagrado",
+    "wiki_targets": [
+      "Machu_Picchu",
+      "Ollantaytambo",
+      "Sacsayhuamán"
+    ],
+    "descripcion": "Capital histórica de América y ombligo del Tahuantinsuyo. Hogar del Santuario Histórico de Machu Picchu (Maravilla del Mundo Moderno), la imponente fortaleza megalítica de Sacsayhuamán, el Valle Sagrado de los Incas (Pisac, Ollantaytambo, Maras y Moray) y la icónica Montaña de los Siete Colores (Vinicunca).",
+    "archivo_imagen": "08_cusco.jpg",
+    "url_imagen": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Machu_Picchu%2C_Peru_%282018%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "ruta_local": "imagenes_regiones_peru/08_cusco.jpg"
+  },
+  {
+    "id": "09_huancavelica",
+    "region": "Huancavelica",
+    "capital": "Huancavelica",
+    "atractivo_principal": "Ruta del Tren Macho y Mina virreinal de Santa Bárbara",
+    "wiki_targets": [
+      "Mina_de_Santa_Bárbara_(Perú)",
+      "Huancavelica",
+      "Plaza_de_Armas_de_Huancavelica"
+    ],
+    "descripcion": "Tierra de altas punas, lagunas glaciares y profunda herencia virreinal. Conocida por la legendaria mina de azogue de Santa Bárbara (la 'Mina de la Muerte'), la ruta ferroviaria andina del histórico 'Tren Macho', sus aguas termales curativas y un ambiente colonial sereno que preserva tradiciones quechuas ancestrales.",
+    "archivo_imagen": "09_huancavelica.jpg",
+    "url_imagen": "https://upload.wikimedia.org/wikipedia/commons/5/51/Panor%C3%A1mica_de_Huancavelica.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "ruta_local": "imagenes_regiones_peru/09_huancavelica.jpg"
+  },
+  {
+    "id": "10_huanuco",
+    "region": "Huánuco",
+    "capital": "Huánuco",
+    "atractivo_principal": "Templo de las Manos Cruzadas de Kotosh y Parque Nacional Tingo María",
+    "wiki_targets": [
+      "Parque_nacional_Tingo_María",
+      "Kotosh",
+      "Huánuco"
+    ],
+    "descripcion": "Puerta de entrada a la Amazonía con un clima primaveral perenne. Cuenta con uno de los vestigios arqueológicos más arcaicos de América en el Templo de las Manos Cruzadas de Kotosh (más de 4,000 años), y la selva alta en Tingo María, con la Cueva de las Lechuzas y la silueta montañosa de la 'Bella Durmiente'.",
+    "archivo_imagen": "10_huanuco.jpg",
+    "url_imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Entrada_a_la_zona_tur%C3%ADstica_de_la_Cueva_de_las_Lechuzas_del_Parque_Nacional_Tingo_Mar%C3%ADa.jpg/3840px-Entrada_a_la_zona_tur%C3%ADstica_de_la_Cueva_de_las_Lechuzas_del_Parque_Nacional_Tingo_Mar%C3%ADa.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ruta_local": "imagenes_regiones_peru/10_huanuco.jpg"
+  },
+  {
+    "id": "11_ica",
+    "region": "Ica",
+    "capital": "Ica",
+    "atractivo_principal": "Oasis de la Huacachina, Líneas de Nazca y Reserva de Paracas",
+    "wiki_targets": [
+      "Huacachina",
+      "Líneas_de_Nazca",
+      "Reserva_nacional_de_Paracas"
+    ],
+    "descripcion": "Paraíso del desierto costero, sol radiante y bodegas de pisco y vino. Espléndido por el mágico Oasis de la Huacachina rodeado de dunas gigantescas, los misteriosos y milenarios geoglifos de las Líneas de Nazca y la biodiversidad marina excepcional de las Islas Ballestas y la Reserva Nacional de Paracas.",
+    "archivo_imagen": "11_ica.jpg",
+    "url_imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Oasis_de_Huacachina%2C_Ica%2C_Per%C3%BA%2C_2015-07-29%2C_DD_18.JPG/3840px-Oasis_de_Huacachina%2C_Ica%2C_Per%C3%BA%2C_2015-07-29%2C_DD_18.JPG?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ruta_local": "imagenes_regiones_peru/11_ica.jpg"
+  },
+  {
+    "id": "12_junin",
+    "region": "Junín",
+    "capital": "Huancayo",
+    "atractivo_principal": "Valle del Mantaro y Selva Central (Chanchamayo)",
+    "wiki_targets": [
+      "Valle_del_Mantaro",
+      "Chanchamayo",
+      "Tarma"
+    ],
+    "descripcion": "Fascinante región que fusiona la sierra campesina con la selva alta. Ofrece la riqueza folclórica, gastronómica y artesanal del fértil Valle del Mantaro, la floral ciudad de Tarma, y los exhuberantes valles cafetaleros, cataratas y comunidades nativas Asháninkas en Chanchamayo y Satipo.",
+    "archivo_imagen": "12_junin.png",
+    "url_imagen": "https://upload.wikimedia.org/wikipedia/commons/8/82/Mapa_del_Valle_del_Mantaro.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "ruta_local": "imagenes_regiones_peru/12_junin.png"
+  },
+  {
+    "id": "13_la_libertad",
+    "region": "La Libertad",
+    "capital": "Trujillo",
+    "atractivo_principal": "Ciudadela de Chan Chan y Balneario de Huanchaco",
+    "wiki_targets": [
+      "Chan_Chan",
+      "Huanchaco",
+      "Huaca_del_Sol"
+    ],
+    "descripcion": "Sede de grandes culturas costeñas (Moche y Chimú) y capital primaveral del norte. Cautiva por Chan Chan (la ciudadela de barro más extensa de América prehispánica), los templos de las Huacas del Sol y de la Luna, el Complejo El Brujo (Señora de Cao) y la milenaria navegación en 'caballitos de totora' en las olas de Huanchaco.",
+    "archivo_imagen": "13_la_libertad.jpg",
+    "url_imagen": "https://upload.wikimedia.org/wikipedia/commons/9/99/PhotomontageChanChan.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "ruta_local": "imagenes_regiones_peru/13_la_libertad.jpg"
+  },
+  {
+    "id": "14_lambayeque",
+    "region": "Lambayeque",
+    "capital": "Chiclayo",
+    "atractivo_principal": "Museo Tumbas Reales de Sipán y Pirámides de Túcume",
+    "wiki_targets": [
+      "Museo_Tumbas_Reales_de_Sipán",
+      "Túcume",
+      "Sipán"
+    ],
+    "descripcion": "La tierra de los grandes señores de la costa norte. Famosa por el descubrimiento arqueológico del Señor de Sipán, custodiado en su célebre Museo Tumbas Reales (uno de los museos más destacados de América Latina), las 26 pirámides de adobe en el Valle de Túcume y el místico Bosque de Pómac.",
+    "archivo_imagen": "14_lambayeque.jpg",
+    "url_imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Tumbas_Reales_de_Sip%C3%A1n_Museum_01.jpg/3840px-Tumbas_Reales_de_Sip%C3%A1n_Museum_01.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ruta_local": "imagenes_regiones_peru/14_lambayeque.jpg"
+  },
+  {
+    "id": "15_lima",
+    "region": "Lima",
+    "capital": "Huacho (Sede Regional) / Lima Metropolitana",
+    "atractivo_principal": "Ciudad Sagrada de Caral y Centro Histórico de Lima",
+    "wiki_targets": [
+      "Caral",
+      "Plaza_Mayor_de_Lima",
+      "Marcahuasi"
+    ],
+    "descripcion": "La región alberga tanto la megalópolis capital y capital gastronómica de América como las provincias que guardan la Ciudad Sagrada de Caral (la civilización más antigua de América con 5,000 años de antigüedad), el místico altiplano rocoso de Marcahuasi, los deportes de aventura en Lunahuaná y los castillos de niebla de Rúpac.",
+    "archivo_imagen": "15_lima.jpg",
+    "url_imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Caral-15.jpg/3840px-Caral-15.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ruta_local": "imagenes_regiones_peru/15_lima.jpg"
+  },
+  {
+    "id": "16_loreto",
+    "region": "Loreto",
+    "capital": "Iquitos",
+    "atractivo_principal": "Río Amazonas y Reserva Nacional Pacaya Samiria",
+    "wiki_targets": [
+      "Reserva_nacional_Pacaya_Samiria",
+      "Río_Amazonas",
+      "Iquitos"
+    ],
+    "descripcion": "El departamento más extenso del Perú, inmerso en el corazón de la Amazonía profunda. Iquitos es su portal cosmopolita, accesible solo por vía fluvial o aérea. Destacan los cruceros fluviales de lujo por el río Amazonas y las expediciones a la Reserva Nacional Pacaya Samiria ('la selva de los espejos'), rica en delfines rosados y fauna exótica.",
+    "archivo_imagen": "16_loreto.jpg",
+    "url_imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Aldea_del_Mara%C3%B1on_-_panoramio.jpg/3840px-Aldea_del_Mara%C3%B1on_-_panoramio.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ruta_local": "imagenes_regiones_peru/16_loreto.jpg"
+  },
+  {
+    "id": "17_madre_de_dios",
+    "region": "Madre de Dios",
+    "capital": "Puerto Maldonado",
+    "atractivo_principal": "Reserva Nacional Tambopata y Parque Nacional del Manu",
+    "wiki_targets": [
+      "Reserva_nacional_Tambopata",
+      "Parque_nacional_del_Manu",
+      "Puerto_Maldonado"
+    ],
+    "descripcion": "Proclamada como la 'Capital de la Biodiversidad del Perú'. Protege áreas naturales pristinas de rango mundial como Tambopata y el Parque Nacional del Manu, famosas internacionalmente por sus colpas de arcilla donde acuden cientos de guacamayos y loros, lagos en herradura con lobos de río gigantes y lodges ecológicos de clase mundial.",
+    "archivo_imagen": "17_madre_de_dios.jpg",
+    "url_imagen": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Lago_Sandoval_4.JPG?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "ruta_local": "imagenes_regiones_peru/17_madre_de_dios.jpg"
+  },
+  {
+    "id": "18_moquegua",
+    "region": "Moquegua",
+    "capital": "Moquegua",
+    "atractivo_principal": "Cerro Baúl y Ruta del Pisco",
+    "wiki_targets": [
+      "Cerro_Baúl",
+      "Moquegua",
+      "Ilo"
+    ],
+    "descripcion": "Región apacible y soleada del sur que cautiva por sus fértiles valles vitivinícolas en la Ruta del Sol y del Pisco, sus casonas virreinales con peculiares techos de mojinete, el misterioso enclave preinca amurallado sobre la meseta del Cerro Baúl y el puerto y balnearios de la costera ciudad de Ilo.",
+    "archivo_imagen": "18_moquegua.png",
+    "url_imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Peru_physical_map.svg/langes-960px-Peru_physical_map.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ruta_local": "imagenes_regiones_peru/18_moquegua.png"
+  },
+  {
+    "id": "19_pasco",
+    "region": "Pasco",
+    "capital": "Cerro de Pasco",
+    "atractivo_principal": "Bosque de Piedras de Huayllay y Colonia Austro-Alemana de Pozuzo",
+    "wiki_targets": [
+      "Santuario_nacional_de_Huayllay",
+      "Pozuzo",
+      "Oxapampa"
+    ],
+    "descripcion": "Tierra de asombrosos contrastes geográficos: en las alturas andinas se erige el Santuario Nacional de Huayllay, considerado uno de los bosques de piedras más extensos y espectaculares del planeta; mientras en su vertiente oriental descienden los valles de Oxapampa, Villa Rica (capital cafetalera) y Pozuzo, única colonia austro-alemana del mundo en la selva.",
+    "archivo_imagen": "19_pasco.png",
+    "url_imagen": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Santuario_Nacional_de_Huayllay_Pasco_Per%C3%BA.PNG?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "ruta_local": "imagenes_regiones_peru/19_pasco.png"
+  },
+  {
+    "id": "20_piura",
+    "region": "Piura",
+    "capital": "Piura",
+    "atractivo_principal": "Playas de Máncora, Los Órganos y Artesanía de Catacaos",
+    "wiki_targets": [
+      "Máncora",
+      "Catacaos",
+      "Los_Órganos"
+    ],
+    "descripcion": "Litoral paradisíaco de mar cálido todo el año, olas de renombre para el surf y avistamiento de ballenas jorobadas en balnearios como Máncora, Los Órganos, Vichayito y Cabo Blanco. Complementado por la maestría de los orfebres de plata y tejedores de paja toquilla en Catacaos y su gastronomía con cebiche de mero y seco de chabelo.",
+    "archivo_imagen": "20_piura.jpg",
+    "url_imagen": "https://upload.wikimedia.org/wikipedia/commons/6/65/Mancorabeach1.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "ruta_local": "imagenes_regiones_peru/20_piura.jpg"
+  },
+  {
+    "id": "21_puno",
+    "region": "Puno",
+    "capital": "Puno",
+    "atractivo_principal": "Lago Titicaca (Uros y Taquile) y Chullpas de Sillustani",
+    "wiki_targets": [
+      "Lago_Titicaca",
+      "Islas_flotantes_de_los_uros",
+      "Sillustani"
+    ],
+    "descripcion": "Capital folclórica del Perú y del Altiplano andino. Deslumbra por el místico Lago Titicaca, el lago navegable más alto del mundo, con sus legendarias islas flotantes de totora construidas por el pueblo Uro, las tradiciones textiles de la Isla de Taquile (Patrimonio Inmaterial de la Humanidad) y las imponentes torres funerarias circulares de las Chullpas de Sillustani.",
+    "archivo_imagen": "21_puno.jpeg",
+    "url_imagen": "https://upload.wikimedia.org/wikipedia/commons/7/73/Lake_Titicaca_ESA22522896.jpeg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "ruta_local": "imagenes_regiones_peru/21_puno.jpeg"
+  },
+  {
+    "id": "22_san_martin",
+    "region": "San Martín",
+    "capital": "Moyobamba",
+    "atractivo_principal": "Cataratas de Ahuashiyacu, Laguna Azul de Sauce y Moyobamba",
+    "wiki_targets": [
+      "Catarata_de_Ahuashiyacu",
+      "Sauce_(San_Martín)",
+      "Moyobamba"
+    ],
+    "descripcion": "Tierra de la selva alta caracterizada por su naturaleza exuberante y refrescantes caídas de agua. Su dinamismo turístico se concentra en Tarapoto con la Catarata de Ahuashiyacu, el espejo de agua de la Laguna Azul en Sauce, la arquitectura y tradiciones indígenas de Lamas, y Moyobamba, la 'Ciudad de las Orquídeas' y de los baños termales de San Mateo.",
+    "archivo_imagen": "22_san_martin.jpg",
+    "url_imagen": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Cataras_de_Ahuashiyacu.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "ruta_local": "imagenes_regiones_peru/22_san_martin.jpg"
+  },
+  {
+    "id": "23_tacna",
+    "region": "Tacna",
+    "capital": "Tacna",
+    "atractivo_principal": "Paseo Cívico, Arco Parabólico y Petroglifos de Miculla",
+    "wiki_targets": [
+      "Paseo_Cívico_de_Tacna",
+      "Miculla",
+      "Tacna"
+    ],
+    "descripcion": "La 'Ciudad Heroica' en la frontera sur. Atrae por su Centro Cívico con el solemne Arco Parabólico labrado en cantería rosada, la Catedral neorrenacentista diseñada por los talleres de Gustave Eiffel, el extenso campo arqueológico con cientos de petroglifos rupestres de Miculla, sus baños termales de Calientes y una reconocida tradición gastronómica y olivícola.",
+    "archivo_imagen": "23_tacna.jpg",
+    "url_imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Catedral_Nuestra_Se%C3%B1ora_del_Rosario_de_Tacna.jpg/3840px-Catedral_Nuestra_Se%C3%B1ora_del_Rosario_de_Tacna.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ruta_local": "imagenes_regiones_peru/23_tacna.jpg"
+  },
+  {
+    "id": "24_tumbes",
+    "region": "Tumbes",
+    "capital": "Tumbes",
+    "atractivo_principal": "Santuario Nacional Los Manglares de Tumbes y Playas de Punta Sal",
+    "wiki_targets": [
+      "Santuario_nacional_Los_Manglares_de_Tumbes",
+      "Punta_Sal",
+      "Puerto_Pizarro"
+    ],
+    "descripcion": "El rincón más tropical del litoral peruano. Hogar del Santuario Nacional Los Manglares de Tumbes, ecosistema único fluvial-marino donde se extraen las famosas conchas negras y el cangrejo rojo del manglar. Cuenta además con los balnearios de arena blanca y mar turquesa más exclusivos del país, como Punta Sal y Zorritos.",
+    "archivo_imagen": "24_tumbes.jpg",
+    "url_imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Manglares_de_Tumbes_by_boat.jpg/3840px-Manglares_de_Tumbes_by_boat.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "ruta_local": "imagenes_regiones_peru/24_tumbes.jpg"
+  },
+  {
+    "id": "25_ucayali",
+    "region": "Ucayali",
+    "capital": "Pucallpa",
+    "atractivo_principal": "Laguna de Yarinacocha y Boquerón del Padre Abad",
+    "wiki_targets": [
+      "Yarinacocha",
+      "Pucallpa",
+      "Boquerón_del_Padre_Abad"
+    ],
+    "descripcion": "Vibrante región de la selva central amazónica atravesada por el caudaloso río Ucayali. En Pucallpa destaca la apacible Laguna de Yarinacocha, donde se navega en botes tradicionales hacia comunidades nativas de la etnia Shipibo-Konibo, famosas por su arte kené de patrones geométricos sagrados; y en Aguaytía, la impresionante garganta natural del Boquerón del Padre Abad con la caída de agua El Velo de la Novia.",
+    "archivo_imagen": "25_ucayali.jpg",
+    "url_imagen": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Plaza_de_Armas_Pucallpa.JPG?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "ruta_local": "imagenes_regiones_peru/25_ucayali.jpg"
+  }
+]
